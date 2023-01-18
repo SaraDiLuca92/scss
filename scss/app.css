@@ -1,0 +1,51 @@
+#uno {
+  cursor: pointer;
+  background-color: rgb(16, 233, 38);
+  border: black;
+  width: 10%;
+  border: 5px solid black;
+  box-shadow: red;
+  font-size: larger;
+}
+
+#due {
+  cursor: pointer;
+  background-color: red;
+  border: black;
+  width: 10%;
+  border: 5px solid black;
+  box-shadow: red;
+  font-size: larger;
+}
+
+body {
+  background-color: black;
+  margin: 0px;
+}
+
+header {
+  background-color: black;
+  background-image: url(./purepng.com-star-wars-yodastar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826271vzua4.png);
+  background-position: 20%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: red;
+}
+header img {
+  position: relative;
+  left: 328px;
+}
+
+main {
+  text-align: center;
+  margin-top: 200px;
+}
+main img {
+  border-radius: 18%;
+  border: 5px solid green;
+} /*# sourceMappingURL=app.css.map */

@@ -1,0 +1,43 @@
+@import "buttons";
+@import "variabili";
+
+body {
+  background-color: $black-color;
+  margin: $no-margin;
+}
+header {
+  background-color: $black-color;
+  background-image: url(./purepng.com-star-wars-yodastar-warsspace-opera-franchisefilm-star-warswarsstar-1701527826271vzua4.png);
+  background-position: 7%;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  width: $full-width;
+  height: 300px;
+  display: $f-display;
+  flex-direction: row;
+  justify-content: space-between;
+  h1 {
+    color: $r-color;
+    position: relative;
+    left: 583px;
+    top: 92px;
+    width: 00px;
+    font-size: x-large;
+    width: 100%;
+    font-size: xxx-large;
+  }
+  color: $r-color;
+}
+img {
+  position: relative;
+  left: -35px;
+}
+main {
+  text-align: center;
+  margin-top: 200px;
+  img {
+    border-radius: 18%;
+    border: 5px solid $g-color;
+  }
+}

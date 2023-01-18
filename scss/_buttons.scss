@@ -1,0 +1,18 @@
+#uno {
+  cursor: $hand-cursor;
+  background-color: $g-color;
+  border: $black-color;
+  width: 10%;
+  border: 5px solid $black-color;
+  box-shadow: $r-color;
+  font-size: larger;
+}
+#due {
+  cursor: $hand-cursor;
+  background-color: $r-color;
+  border: $black-color;
+  width: 10%;
+  border: 5px solid $black-color;
+  box-shadow: $r-color;
+  font-size: larger;
+}
